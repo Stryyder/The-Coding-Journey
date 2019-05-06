@@ -12,3 +12,6 @@ There is so much information out there that the exact path to your first job as 
 - Mega-Cheat: Work continues on dev branch
 - Jabroney: Work halted to concentrate on JAM
 - Baseball game: Awaiting completion of boot camp
+
+### Current Focus
+- Preparing for a forced break from coding during the entire month of June
