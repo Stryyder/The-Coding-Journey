@@ -13,7 +13,7 @@ There is so much information out there that the exact path to your first job as 
 - Learn at the speed required to fully comprehend the material
 
 ### Project Statuses
-- Job status: 3 and working to reduce
+- Job status: I currently have two jobs, both of which don't pay much
 - Mega-Cheat: Work continues on dev branch
 - Jabroney: Work halted to concentrate on JAM
 - Baseball game: Awaiting completion of boot camp
