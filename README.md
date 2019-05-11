@@ -19,4 +19,5 @@ There is so much information out there that the exact path to your first job as 
 - Baseball game: Awaiting completion of boot camp
 
 ### Current Focus
+- Intermediate algorithms with JavaScript
 - Preparing for a forced break from coding during the entire month of June
