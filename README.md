@@ -4,10 +4,8 @@ This repo will primarily consist of the wiki, with maybe some coding samples alo
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
 for updates and progress
 
-## Why
-There is so much information out there that the exact path to your first job as a front-end developer can be a nightmare. You are told you have to learn this, that, the other thing, and know how to slice bread with a different framework each day. This project is an ongoing log of what it takes for me (a 40 year old man with a lot of other challenges besides coding) to get into the industry. I truly hope to show that anyone, absolutely anyone (even a slightly dense old dog like me) can learn new tricks and do this stuff. I have a long way to go. Join me if you like!
-
 ### Biggest lessons so far
+- Learn how to learn / rebuild the wheel ony if the old one is beyond repair
 - You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. 
 - Even if web dev dies in the future, programming won't
 - Before applying to jobs, have a solid portfolio and a web dev focused resume
