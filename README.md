@@ -13,7 +13,7 @@ for updates and progress
 
 ### Project Statuses
 - Job status: I currently have two jobs, both of which don't pay much
-- Mega-Cheat: Work continues on dev branch
+- Mega-Cheat: Prepartion for second job has postponed any serious progress
 - Jabroney: Work halted to concentrate on JAM
 - Baseball game: Awaiting completion of boot camp
 
