@@ -18,6 +18,6 @@ for updates and progress
 - Baseball game: Awaiting completion of boot camp
 
 ### Current Focus
-- Intermediate algorithms with JavaScript - as day job consumes most of my time
+- Intermediate algorithms with JavaScript - really struggling with these. More practice, more, more, more.
   I fully understand solutions when I see them, but coming up with the structure on my own has been challenging.
 - Preparing for a forced break from coding during the entire month of June
