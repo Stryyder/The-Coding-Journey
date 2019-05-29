@@ -13,3 +13,9 @@ return str.replace(r,"-").split(s).join("-").replace(r3, "-").toLowerCase();
 }
 
 spinalCase('This Is Spinal Tap');
+
+/* Much Better
+function spinalCase(str) {
+  return str.split(/\s|_|(?=[A-Z])/).join('-').toLowerCase()
+}
+*/
