@@ -4,6 +4,10 @@ This repo will primarily consist of the wiki, with maybe some coding samples alo
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
 for updates and progress
 
+## NOTE
+- The coding chunks supplied with this project are a track record of progress more than anything. Some aren't pretty, but I'm hoping that it will show a progression in logic and psuedo-coding during this process. The "solutions" provided are to algorithm questions at freeCodeCamp. It has been very helpful to finish the problems on my own first, then go to the hint pages to see how I could have done it a lot better.
+
+
 ### Biggest lessons so far
 - Learn how to learn / rebuild the wheel ony if the old one is beyond repair
 - You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. 
