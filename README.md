@@ -9,7 +9,6 @@ for updates and progress
 
 
 ### Biggest lessons so far
-- Learn how to learn / rebuild the wheel ony if the old one is beyond repair
 - You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. 
 - Even if web dev dies in the future, programming won't
 - Before applying to jobs, have a solid portfolio and a web dev focused resume
