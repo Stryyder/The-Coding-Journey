@@ -5,7 +5,7 @@ An ongoing log of my progression into the coding world
 for updates and progress
 
 ## NOTE
-- The coding chunks supplied with this project are a track record of progress more than anything. Some aren't pretty, but I'm hoping that it will show a progression in logic and psuedo-coding during this process. The "solutions" provided are to algorithm questions at freeCodeCamp. It has been very helpful to finish the problems on my own first, then go to the hint pages to see how I could have done it a lot better.
+- The examples included here are not meant to be the best solution, just A solution that I could figure out on the first try. I'm hoping that my solutions become more well thought out and advanced as time passes.
 
 
 ### Biggest lessons so far
