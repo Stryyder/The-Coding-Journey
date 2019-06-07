@@ -9,7 +9,7 @@ for updates and progress
 
 
 ### Biggest lessons so far
-- You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. 
+- You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. Each time you come across a term, it becomes more and more familiar as time passes.
 - Even if web dev dies in the future, programming won't
 - Before applying to jobs, have a solid portfolio and a web dev focused resume
 - Learn at the speed required to fully comprehend the material
