@@ -17,7 +17,7 @@ for updates and progress
 ### Project Statuses
 - Job status: I currently have two jobs, both of which don't pay much
 - Mega-Cheat: Commencing work Tuesday after a recovery day
-- Jabroney: Work halted to get better at coding
+- Jabroney: Work ended. Great project, but the more I learn, the more embarrassed I am of it.
 
 
 ### Current Focus
