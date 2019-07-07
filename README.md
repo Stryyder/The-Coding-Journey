@@ -1,6 +1,7 @@
 # The Front-End Coding Journey
 An ongoing log of my progression into the coding world
-- This repo will primarily consist of the wiki, with maybe some coding samples along the way.
+
+
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
 for updates and progress
 
