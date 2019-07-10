@@ -25,3 +25,5 @@ for updates and progress
 - Intermediate algorithms with JavaScript - really struggling with these. More practice, more, more, more.
 
 - As the field gets more and more complicated in front of me, I'm reaching the conclusion I need to specialize even further. UX/UI, AWS, etc. There are so many avenues to approach. Choosing one is intimidating.
+
+- New career shift in November will further derail solid progress temporarily
