@@ -26,4 +26,4 @@ for updates and progress
 
 - As the field gets more and more complicated in front of me, I'm reaching the conclusion I need to specialize even further. UX/UI, AWS, etc. There are so many avenues to approach. Choosing one is intimidating.
 
-- New career shift in November will further derail solid progress temporarily
+- As it gets more and more difficult to put a full chunk of code on here every day, I've been lightly editing this page to keep up my streak. Rest assured,  things will fly a little faster once I free myself from the hole of javascript algorithms. It's a fun ride, but I can't wait to branch out and learn more.
