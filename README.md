@@ -14,6 +14,7 @@ for updates and progress
 - Even if web dev dies in the future, programming won't
 - Before applying to jobs, have a solid portfolio and a job-specific, targeted resume
 - Learn at the speed required to fully comprehend the material
+- A creative side-project that isn't necessarily educationally focused can help keep you excited about coding
 
 ### Project Statuses
 - Job status: I currently have two jobs, both of which don't pay much
