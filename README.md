@@ -17,7 +17,6 @@ for updates and progress
 - A creative side-project that isn't necessarily educationally focused can help keep you excited about coding
 
 ### Project Statuses
-- Job status: I currently have two jobs, both of which don't pay much
 - Mega-Cheat: Commencing work Tuesday after a recovery day
 - Jabroney: Work ended. Great project, but the more I learn, the more embarrassed I am of it.
 
