@@ -6,8 +6,7 @@ An ongoing log of my progression into the coding world
 for updates and progress
 
 ## NOTE
-- The examples included here are not meant to be the best solution, just A solution that I could figure out on the first try. I'm hoping that my solutions become more well thought out and advanced as time passes.
-
+- The examples included here are not scrubbed to perfect. They are just "working" solutions that passed the current test.
 
 ### Biggest lessons so far
 - You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. Each time you come across a term, it becomes more and more familiar as time passes.
