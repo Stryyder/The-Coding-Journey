@@ -15,6 +15,9 @@ for updates and progress
 - Learn at the speed required to fully comprehend the material
 - A creative side-project that isn't necessarily educationally focused can help keep you excited about coding
 
+### Biggest challenge so far
+- Javascript Algorithms
+
 ### Project Statuses
 - Mega-Cheat: Commencing work Tuesday after a recovery day
 - Jabroney: Work ended. Great project, but the more I learn, the more embarrassed I am of it.
