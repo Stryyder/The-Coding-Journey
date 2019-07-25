@@ -1,0 +1,8 @@
+function palindrome(str) {
+	let regEx = /[a-z | 0-9]/g;
+	let cleanedString = str.toLowerCase().replace(/\s/g, '').match(regEx).join('');
+	let reversedString = cleanedString.split("").reverse().join('');
+//return cleanedString + " reverses to-> " + reversedString;
+ return ((cleanedString === reversedString) ? true : false);
+
+}
