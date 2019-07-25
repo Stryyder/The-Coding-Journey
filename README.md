@@ -19,6 +19,7 @@ for updates and progress
 - Javascript Algorithms WORK work WORK
 
 ### Project Statuses
-- Mega-Cheat: Commencing work Tuesday after a recovery day
+- Mega-Cheat: Work halted to work on a client site (it was pretty ugly anyway)
+- Client site: Laying the foundations
 - Jabroney: Work ended. Great project, but the more I learn, the more embarrassed I am of it.
 
