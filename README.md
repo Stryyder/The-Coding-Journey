@@ -9,7 +9,7 @@ for updates and progress
 - The examples included here are not scrubbed to perfect. They are just "working" solutions that passed the current test.
 
 ### Biggest lessons so far
-- Everyone is lost
+- Everyone is lost to a certain degree
 - You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. Each time you come across a term, it becomes more and more familiar as time passes.
 - Even if web dev dies in the future, programming won't
 - Before applying to jobs, have a solid portfolio and a job-specific, targeted resume
