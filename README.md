@@ -17,7 +17,7 @@ for updates and progress
 - A creative side-project that isn't necessarily educationally focused can help keep you excited about coding
 
 ### Biggest challenge so far
-- Javascript Algorithms WORK work WORK
+- Javascript Algorithms
 
 ### Project Statuses
 - Mega-Cheat: Work halted to work on a client site (it was pretty ugly anyway)
