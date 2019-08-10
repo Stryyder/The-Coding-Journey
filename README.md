@@ -19,8 +19,8 @@ for updates and progress
 ### Biggest challenge so far
 - Javascript Algorithms
 
-### Project Statuses
-- Mega-Cheat: Work halted to work on a client site (it was pretty ugly anyway)
+### Projects
+- Mega-Cheat: Work halted to work on a client site 
 - Client site: Laying the foundations
 - Jabroney: Work ended. Great project, but the more I learn, the more embarrassed I am of it.
 
