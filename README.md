@@ -6,7 +6,7 @@ An ongoing log of my progression into the coding world
 for updates and progress
 
 ## NOTE
-- The examples included here are not scrubbed to perfect. They are just "working" solutions that passed the current test.
+- The code examples included in this project are not perfect. They are just "working" solutions that worked to succesfully pass that specific challenge in coding bootcamp. 
 
 ### Biggest lessons so far
 - Everyone is lost to a certain degree
