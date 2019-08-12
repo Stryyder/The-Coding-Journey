@@ -1,7 +1,4 @@
 # The Front-End Coding Journey
-An ongoing log of my progression into the coding world
-
-
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
 for updates and progress
 
