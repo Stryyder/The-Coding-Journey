@@ -18,7 +18,7 @@ for updates and progress
 - React oddities
 
 ### Projects
-- Mega-Cheat: Work halted to work on a client site 
+- Mega-Cheat: Work halted to work on a client site (React looks promising to componentize this) 
 - Client site: Laying the foundations
 - Jabroney: Work ended. Great project, but the more I learn, the more embarrassed I am of it.
 
