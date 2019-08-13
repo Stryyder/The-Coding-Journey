@@ -15,6 +15,7 @@ for updates and progress
 
 ### Biggest challenge so far
 - Javascript Algorithms
+- React oddities
 
 ### Projects
 - Mega-Cheat: Work halted to work on a client site 
