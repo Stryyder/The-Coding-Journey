@@ -18,6 +18,7 @@ for updates and progress
 - React oddities
 
 ### Projects
+- 2D Baseball Game: Building a team to round out development skills and processes
 - Mega-Cheat: Work halted to work on a client site (React looks promising to componentize this) 
 - Client site: Laying the foundations
 - Jabroney: Work ended. Great project, but the more I learn, the more embarrassed I am of it.
