@@ -3,7 +3,7 @@
 for updates and progress
 
 ## NOTE
-- The code examples included in this project are not perfect. They are just "working" solutions that worked to succesfully pass that specific challenge in coding bootcamp. 
+- The code examples included in this project are not perfect. They are just "working" solutions that worked to succesfully pass that specific challenge in coding bootcamp. As I progress, I will likely revisit these solutions and rework them, improving upon their efficiency, etc.
 
 ### Biggest lessons so far
 - Everyone is lost to a certain degree
