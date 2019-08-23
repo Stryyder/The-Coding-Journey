@@ -6,7 +6,6 @@ for updates and progress
 - The code examples included in this project are not perfect. They are just "working" solutions that worked to succesfully pass that specific challenge in coding bootcamp. As I progress, I will likely revisit these solutions and rework them, improving upon their efficiency, etc.
 
 ### Biggest lessons so far
-- Everyone is lost to a certain degree
 - You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. Each time you come across a term, it becomes more and more familiar as time passes.
 - Even if web dev dies in the future, programming won't
 - Before applying to jobs, have a solid portfolio and a job-specific, targeted resume
