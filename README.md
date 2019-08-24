@@ -14,7 +14,7 @@ for updates and progress
 
 ### Biggest challenge so far
 - Javascript Algorithms
-- React oddities
+- React oddities (going through this section twice was extremely beneficial)
 
 ### Projects
 - 2D Baseball Game: Learning basic graphics setup for Unity
