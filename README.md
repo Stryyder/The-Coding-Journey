@@ -29,7 +29,7 @@ for updates and progress
 - Interview, interview, interview
 - Check [this](https://github.com/kamranahmedse/developer-roadmap) out for a much better, exhaustive list of what to learn.
 
-### Projects
+### Projects I'm working on
 - 2D Baseball Game: Learning basic graphics setup for Unity
 - Mega-Cheat: Work halted to work on a client site (React looks promising to componentize this) 
 - Client site: Laying the foundations
