@@ -16,6 +16,19 @@ for updates and progress
 - Javascript Algorithms
 - React oddities (going through this section twice was extremely beneficial)
 
+
+#### Basic Front-End Developer Path
+- Build a Portfolio Site
+- Work on projects, even for free (like open source stuff even)
+- Put Your Code on a portal like GitHub
+- Go to community coding events
+- Network with other developers
+- Follow industry news and stay on top of the newest skills
+- Refine your resume
+- Start looking for a job
+- Interview, interview, interview
+
+
 ### Projects
 - 2D Baseball Game: Learning basic graphics setup for Unity
 - Mega-Cheat: Work halted to work on a client site (React looks promising to componentize this) 
