@@ -36,4 +36,5 @@ Many of them, too, are just examples for me to reference later as a what-to-do o
 - Mega-Cheat: Work halted to work on a client site (React looks promising to componentize this) 
 - Client site: Skeleton in place - Working on performance tweaks
 - Jabroney: Work ended. Great project, but the more I learn, the more embarrassed I am of it.
+- Considered at some point reworking an older project with updated knowledge, but will wait until some of my projects wrap up
 
