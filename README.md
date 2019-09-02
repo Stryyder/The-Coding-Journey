@@ -32,7 +32,7 @@ Many of them, too, are just examples for me to reference later as a what-to-do o
 - Check [this](https://github.com/kamranahmedse/developer-roadmap) out for a much better, exhaustive list of what to learn.
 
 ### Projects I'm working on
-- [2D Baseball Game](https://github.com/Stryyder/2D-Baseball-Game): Learning basic graphics setup for Unity
+- Balmoral 2D Baseball: Learning basic graphics setup for Unity
 - [Mega-Cheat](https://github.com/Stryyder/Mega-Cheat): Work halted to work on a client site (React looks promising to componentize this) 
 - Client site: Skeleton in place - Working on performance tweaks
 - [Jabroney](https://github.com/Stryyder/Jabroney): Work ended. Great project, but the more I learn, the more embarrassed I am of it.
