@@ -37,5 +37,5 @@ Many of them, too, are just examples for me to reference later as a what-to-do o
 - Client site: Skeleton in place - Working on performance tweaks
 - [Jabroney](https://github.com/Stryyder/Jabroney): Work ended. Great project, but the more I learn, the more embarrassed I am of it.
 - Considered at some point reworking an older project with updated knowledge, but will wait until some of my projects wrap up
-- Completed Projects: KoB domain, GH domain
+- Completed Projects: KoB domain, GH domain (retired)
 
