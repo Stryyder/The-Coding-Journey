@@ -17,6 +17,7 @@ Many of them, too, are just examples for me to reference later as a what-to-do o
 ### Biggest challenge so far
 - Javascript Algorithms
 - React oddities (going through this section twice was extremely beneficial)
+- Redux state management is odd
 
 
 #### Basic Front-End Developer Path
