@@ -39,4 +39,4 @@ Many of them, too, are just examples for me to reference later as a what-to-do o
 - [Jabroney](https://github.com/Stryyder/Jabroney): This is a snake-like game where you collect stuff. Work ended. Fun project, but the more I learn, the more embarrassed I am of its ugly code and structure. It's also a very rudimentary game.
 
 ##### Shameless edits to keep my GitHub streak going
-9.9.19
+9.9.19, 9.11.19
