@@ -1,3 +1,7 @@
+/* 
+This file makes the say-what-now folder because I'm not 100% on how all these values are getting passed around. I think I need a more thorough explanation on just exactly how these values are being tossed about.
+*/
+
 // define ADD, addMessage(), messageReducer(), and store here:
 const ADD = 'ADD';
 
