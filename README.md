@@ -38,5 +38,3 @@ Many of them, too, are just examples for me to reference later as a what-to-do o
 - Client site: Skeleton in place - Working on performance tweaks - learning React may help
 - [Jabroney](https://github.com/Stryyder/Jabroney): This is a snake-like game where you collect stuff. Work ended. Fun project, but the more I learn, the more embarrassed I am of its ugly code and structure. It's also a very rudimentary game.
 
-#### Rule 7 violations
-9.19.19, 9.20.19
