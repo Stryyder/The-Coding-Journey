@@ -35,7 +35,7 @@ Many of them, too, are just examples for me to reference later as a what-to-do o
 ### Projects I'm working on
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity
 - Client site: Skeleton in place - Working on performance tweaks - learning React may help
-- Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React
+- Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React with JSON
 
 ### Completed Projects
 - [Random Quote Machine](https://github.com/Stryyder/random-quote-machine) - My first ever React project
