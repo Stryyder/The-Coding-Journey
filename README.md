@@ -34,7 +34,11 @@ Many of them, too, are just examples for me to reference later as a what-to-do o
 
 ### Projects I'm working on
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity
-- [Mega-Cheat](https://github.com/Stryyder/Mega-Cheat): Mega-Cheat is currently a pretty ugly little cheat sheet for basic fron-end development. It needs some love but work has halted to work on a client site (React looks promising to componentize this) 
 - Client site: Skeleton in place - Working on performance tweaks - learning React may help
-- [Jabroney](https://github.com/Stryyder/Jabroney): This is a snake-like game where you collect stuff. Work ended. Fun project, but the more I learn, the more embarrassed I am of its ugly code and structure. It's also a very rudimentary game.
+- Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React
 
+### Completed Projects
+- [Random Quote Machine](https://github.com/Stryyder/random-quote-machine) - My first ever React project
+- [Jabroney](https://github.com/Stryyder/Jabroney): This is a snake-like game where you collect stuff. Work ended. Fun project, but the more I learn, the more embarrassed I am of its ugly code and structure. It's also a very rudimentary game.
+- [Jabroney](https://github.com/Stryyder/Jabroney): This is a snake-like game where you collect stuff. Work ended. Fun project, but the more I learn, the more embarrassed I am of its ugly code and structure. It's also a very rudimentary game.
+- [Mega-Cheat](https://github.com/Stryyder/Mega-Cheat): Mega-Cheat is currently a pretty ugly little cheat sheet for basic fron-end development. It needs some love but work has halted to work on a client site (React looks promising to componentize this)
