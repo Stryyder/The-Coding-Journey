@@ -8,6 +8,7 @@ for updates and progress
 Many of them, too, are just examples for me to reference later as a what-to-do or what-not-to-do.
 
 ### Projects I'm working on
+- Primary: freeCodeCamp Learning Projects
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity
 - Client site: Skeleton in place - Working on performance tweaks - learning React may help
 - Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React with JSON
