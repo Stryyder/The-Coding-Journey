@@ -8,9 +8,9 @@ for updates and progress
 Many of them, too, are just examples for me to reference later as a what-to-do or what-not-to-do.
 
 ### Projects I'm working on
-- Primary: freeCodeCamp Learning Projects
+- Primary: freeCodeCamp Learning Project [Markdown Previewer](https://github.com/Stryyder/markdown-previewer)
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity
-- Client site: Skeleton in place - Working on performance tweaks - learning React may help
+- Client site: Working with owner to create brief
 - Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React with JSON
 
 ### Completed Projects
@@ -48,4 +48,4 @@ Many of them, too, are just examples for me to reference later as a what-to-do o
 
 
 
-47
+48
