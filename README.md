@@ -2,18 +2,18 @@
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
 for updates and progress
 
-## NOTE
-- The code examples included in this project are not great. They are just "working" solutions that worked to succesfully pass that specific challenge in coding bootcamp. As I progress, I will likely revisit these solutions and rework them, improving upon their efficiency, etc.
-
-Many of them, too, are just examples for me to reference later as a what-to-do or what-not-to-do.
+### NOTE
+- The code examples included in this project are not super amazing. They are just working solutions utilized to succesfully pass a specific challenge in coding bootcamp. 
 
 ### Projects I'm working on
+
 - Primary: freeCodeCamp Learning Project [drum-machine](https://github.com/Stryyder/drum-machine)
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity
 - Client site: Working with owner to create brief
 - Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React with JSON
 
 ### Completed Projects
+
 **Create-React-App**
 - [Markdown Previewer](https://github.com/Stryyder/markdown-previewer) - utilizing [marked](https://github.com/markedjs/marked)
 - [Random Quote Machine](https://github.com/Stryyder/random-quote-machine) - My first ever React project
