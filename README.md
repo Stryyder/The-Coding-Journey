@@ -8,12 +8,13 @@ for updates and progress
 Many of them, too, are just examples for me to reference later as a what-to-do or what-not-to-do.
 
 ### Projects I'm working on
-- Primary: freeCodeCamp Learning Project [Markdown Previewer](https://github.com/Stryyder/markdown-previewer)
+- Primary: freeCodeCamp Learning Project [drum-machine](https://github.com/Stryyder/drum-machine)
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity
 - Client site: Working with owner to create brief
 - Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React with JSON
 
 ### Completed Projects
+- [Markdown Previewer](https://github.com/Stryyder/markdown-previewer) - utilizing [marked](https://github.com/markedjs/marked)
 - [Random Quote Machine](https://github.com/Stryyder/random-quote-machine) - My first ever React project
 - [Jabroney](https://github.com/Stryyder/Jabroney): This is a snake-like game where you collect stuff. Work ended. Fun project, but the more I learn, the more embarrassed I am of its ugly code and structure. It's also a very rudimentary game. Up to three players locally - [play now!](https://jabroney.netlify.com)
 - [Mega-Cheat](https://github.com/Stryyder/Mega-Cheat): Mega-Cheat is currently a pretty ugly little cheat sheet for basic fron-end development. It needs some love but work has halted to work on a client site (React looks promising to componentize this)
