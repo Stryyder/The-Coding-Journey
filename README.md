@@ -1,6 +1,7 @@
 # The Front-End Coding Journey
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
-for updates and progress
+for updates and progress **10.11.19**
+
 
 ### NOTE
 - The code examples included in this project are not super amazing. They are just working solutions utilized to succesfully pass a specific challenge in coding bootcamp. 
