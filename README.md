@@ -7,8 +7,7 @@ for updates and progress **10.11.19**
 - The code examples included in this project are not super amazing. They are just working solutions utilized to succesfully pass a specific challenge in coding bootcamp. 
 
 ### Projects I'm working on
-
-- Primary: freeCodeCamp Learning Project [drum-machine](https://github.com/Stryyder/drum-machine)
+- Primary: freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity
 - Client site: Working with owner to create brief
 - Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React with JSON
@@ -16,6 +15,7 @@ for updates and progress **10.11.19**
 ### Completed Projects
 
 **Create-React-App**
+- [Drum Machine](https://github.com/Stryyder/drum-machine)
 - [Markdown Previewer](https://github.com/Stryyder/markdown-previewer) - utilizing [marked](https://github.com/markedjs/marked)
 - [Random Quote Machine](https://github.com/Stryyder/random-quote-machine) - My first ever React project
 
