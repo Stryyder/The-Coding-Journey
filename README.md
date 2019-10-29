@@ -1,6 +1,6 @@
 # The Front-End Coding Journey
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
-for updates and progress **10.11.19**
+for updates and progress
 
 
 ### NOTE
