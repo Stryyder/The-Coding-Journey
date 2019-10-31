@@ -9,7 +9,7 @@ for updates and progress
 ### Projects I'm working on
 - Primary: freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity
-- Client site: Working with owner to create brief
+- Client site: Work ongoing
 - Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React with JSON
 
 ### Completed Projects
