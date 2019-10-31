@@ -54,7 +54,7 @@ for updates and progress
 - Refine your resume
 - Start looking for a job
 - Interview, interview, interview
-- Check [this](https://github.com/kamranahmedse/developer-roadmap) out for a much better, exhaustive list of what to learn.
+- [Check this out](https://github.com/kamranahmedse/developer-roadmap) for a much better, exhaustive list of what to learn.
 
 
 
