@@ -10,7 +10,7 @@ for updates and progress
 - Primary: freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity
 - Client site: Work ongoing
-- Mega-Cheat 2 will replace the clunky Mega-Cheat project utilizing React with JSON
+- Mega-Cheat 2 will replace the clunky Mega-Cheat project (considering React for this)
 
 ### Completed Projects
 
