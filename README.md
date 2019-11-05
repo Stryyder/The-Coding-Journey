@@ -8,7 +8,7 @@ for updates and progress
 
 ### Projects I'm working on
 - Primary: freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
-- Balmoral 2D Baseball: Learning basic graphics setup for Unity
+- Balmoral 2D Baseball: Learning basic graphics setup for Unity (shifted to Godot for this as it runs more smoothly)
 - Client site: Work ongoing
 - Mega-Cheat 2 will replace the clunky Mega-Cheat project (considering React for this)
 
