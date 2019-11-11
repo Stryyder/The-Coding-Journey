@@ -22,7 +22,7 @@ for updates and progress
 
 **Vanilla JS**
 - [Jabroney](https://github.com/Stryyder/Jabroney): This is a snake-like game where you collect stuff. Work ended. Fun project, but the more I learn, the more embarrassed I am of its ugly code and structure. It's also a very rudimentary game. Up to three players locally - [play now!](https://jabroney.netlify.com)
-- [It's A Bug](https://github.com/Stryyder/ItsABug) - [play now!](https://itsabug.netlify.com)
+- [It's A Bug](https://github.com/Stryyder/ItsABug):  My first jump into JavaScript and the canvas.  This project was extremely educational.  I learned a lot of what-not-to-dos. [play now!](https://itsabug.netlify.com)
 
 
 **HTML/CSS/JS**
