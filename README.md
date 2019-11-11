@@ -36,7 +36,7 @@ for updates and progress
 - Before applying to jobs, have a solid portfolio and a job-specific, targeted resume
 - Learn at the speed required to fully comprehend the material
 - A creative side-project that isn't necessarily educationally focused can help keep you excited about coding
-
+- Just work locally first and then make more meaningful, content-rich commits to repositories!  
 ### Biggest challenge so far
 - Javascript Algorithms
 - React oddities (going through this section twice in bootcamp was extremely beneficial)
