@@ -1,10 +1,6 @@
 # The Front-End Coding Journey
-* [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
-for updates and progress
 
-
-### NOTE
-- The code examples included in this project are not super amazing. They are just working solutions utilized to succesfully pass a specific challenge in coding bootcamp. 
+<img src="img/preview.png">
 
 ### Projects I'm working on
 - Primary: freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
@@ -12,6 +8,8 @@ for updates and progress
 - Client site: Work ongoing
 - Squirrel-Book will replace the clunky Mega-Cheat project (considering React for this)
 - [Novice-Movie-Study](https://github.com/Stryyder/novice-movie-study) is a low priority JSON log of movies I've watched over the years with some basic associated data and gut reaction ratings
+* [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
+for updates and progress
 
 ### Completed Projects
 
