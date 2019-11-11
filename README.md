@@ -1,5 +1,3 @@
-# The Front-End Coding Journey
-
 <img src="img/preview.png">
 
 ### Projects I'm working on
