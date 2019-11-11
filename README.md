@@ -39,7 +39,7 @@ for updates and progress
 
 ### Biggest challenge so far
 - Javascript Algorithms
-- React oddities (going through this section twice was extremely beneficial)
+- React oddities (going through this section twice in bootcamp was extremely beneficial)
 - Redux state management is odd
 
 
