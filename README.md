@@ -31,12 +31,14 @@ for updates and progress
 - [Danger House](https://github.com/Stryyder/Danger-House): I made this game with Basic utilizing at the time QBasic 4.5. It was made sometime around 2001? Text and pictures - they were all the rage back then.
 
 ### Biggest lessons so far
+- Algorithm and data structures are such a vital key component to learn that they should be placed up front
 - You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. Each time you come across a term, it becomes more and more familiar as time passes.
 - Even if web dev dies in the future, programming won't
 - Before applying to jobs, have a solid portfolio and a job-specific, targeted resume
 - Learn at the speed required to fully comprehend the material
 - A creative side-project that isn't necessarily educationally focused can help keep you excited about coding
-- Just work locally first and then make more meaningful, content-rich commits to repositories!  
+- Just work locally first and then make more meaningful, content-rich commits to repositories! 
+
 ### Biggest challenge so far
 - Javascript Algorithms
 - React oddities (going through this section twice in bootcamp was extremely beneficial)
