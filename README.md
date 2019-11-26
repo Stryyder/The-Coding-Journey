@@ -5,7 +5,7 @@
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity (shifted to Godot for this as it runs more smoothly)
 - Client site: Work ongoing
 - Squirrel-Book will replace the clunky Mega-Cheat project (considering React for this)
-- [simply-morse](https://github.com/Stryyder/simply-morse) is a text/morse converter
+
 - [Novice-Movie-Study](https://github.com/Stryyder/novice-movie-study) is a low priority JSON log of movies I've watched over the years with some basic associated data and gut reaction ratings
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
 for updates and progress
@@ -20,7 +20,7 @@ for updates and progress
 **Vanilla JS**
 - [Jabroney](https://github.com/Stryyder/Jabroney): This is a snake-like game where you collect stuff. Work ended. Fun project, but the more I learn, the more embarrassed I am of its ugly code and structure. It's also a very rudimentary game. Up to three players locally - [play now!](https://jabroney.netlify.com)
 - [It's A Bug](https://github.com/Stryyder/ItsABug):  My first jump into JavaScript and the canvas.  This project was extremely educational.  I learned a lot of what-not-to-dos. [play now!](https://itsabug.netlify.com)
-
+- [simply-morse](https://github.com/Stryyder/simply-morse) is a text/morse converter (open for PRs)
 
 **HTML/CSS/JS**
 - [Mega-Cheat](https://github.com/Stryyder/Mega-Cheat): Mega-Cheat is currently a pretty ugly little cheat sheet for basic fron-end development. It needs some love but work has halted to work on a client site (React looks promising to componentize this)
