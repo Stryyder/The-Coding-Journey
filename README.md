@@ -10,7 +10,7 @@ for updates and progress
 - Client sites: Work ongoing
 - freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
 
-### Secondary
+#### Secondary
 
 - Balmoral 2D Baseball: Learning basic graphics setup for Unity (shifted to Godot for this as it runs more smoothly)
 - Squirrel-Book will replace the clunky Mega-Cheat project (considering React for this)
