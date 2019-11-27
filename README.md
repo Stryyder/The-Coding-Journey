@@ -1,14 +1,21 @@
 <img src="img/preview.png">
 
 ### Projects I'm working on
-- Primary: freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
-- Balmoral 2D Baseball: Learning basic graphics setup for Unity (shifted to Godot for this as it runs more smoothly)
-- Client site: Work ongoing
-- Squirrel-Book will replace the clunky Mega-Cheat project (considering React for this)
 
-- [Novice-Movie-Study](https://github.com/Stryyder/novice-movie-study) is a low priority JSON log of movies I've watched over the years with some basic associated data and gut reaction ratings
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
 for updates and progress
+
+#### Primary
+
+- Client sites: Work ongoing
+- freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
+
+### Secondary
+
+- Balmoral 2D Baseball: Learning basic graphics setup for Unity (shifted to Godot for this as it runs more smoothly)
+- Squirrel-Book will replace the clunky Mega-Cheat project (considering React for this)
+- [Novice-Movie-Study](https://github.com/Stryyder/novice-movie-study) is a low priority JSON log of movies I've watched over the years with some basic associated data and gut reaction ratings
+
 
 ### Completed Projects
 
