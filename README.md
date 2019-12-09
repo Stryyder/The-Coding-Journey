@@ -1,4 +1,4 @@
-<img src="img/preview.png"> (Day 292)
+<img src="img/preview.png"> (Day 300)
 
 ### Projects I'm working on
 
