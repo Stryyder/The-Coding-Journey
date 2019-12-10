@@ -39,6 +39,7 @@ for updates and progress
 - [Danger House](https://github.com/Stryyder/Danger-House): I made this game with Basic utilizing at the time QBasic 4.5. It was made sometime around 2001? Text and pictures - they were all the rage back then.
 
 ### Biggest lessons so far
+- Equally important to studying is not studying everything.  Trying to learn everything is futile.
 - Algorithm and data structures are such a vital key component to learn that they should be placed up front
 - You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. Each time you come across a term, it becomes more and more familiar as time passes.
 - Even if web dev dies in the future, programming won't
