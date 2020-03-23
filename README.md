@@ -7,7 +7,6 @@ for updates and progress
 
 #### Primary
 
-- Client sites: Work ongoing
 - freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
 
 #### Secondary
