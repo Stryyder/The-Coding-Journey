@@ -7,7 +7,7 @@ for updates and progress
 
 #### Primary
 
-- freeCodeCamp Learning Project [calculator](https://github.com/Stryyder/js-calculator)
+- freeCodeCamp Learning Project [Pomodoro Clock](https://github.com/Stryyder/pomodoro-clock)
 
 #### Secondary
 
@@ -19,6 +19,7 @@ for updates and progress
 ### Completed Projects
 
 **Create-React-App**
+- [Calculator](https://github.com/Stryyder/js-calculator)
 - [Drum Machine](https://github.com/Stryyder/drum-machine)
 - [Markdown Previewer](https://github.com/Stryyder/markdown-previewer) - utilizing [marked](https://github.com/markedjs/marked)
 - [Random Quote Machine](https://github.com/Stryyder/random-quote-machine) - My first ever React project
