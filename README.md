@@ -11,8 +11,8 @@ for updates and progress
 
 #### Secondary
 
-- Balmoral 2D Baseball: Learning basic graphics setup for Unity (shifted to Godot for this as it runs more smoothly)
-- Squirrel-Book will replace the clunky Mega-Cheat project (considering React for this)
+- Balmoral 2D Baseball: Learning basics of GoDot 3
+- Squirrel-Book will replace the clunky Mega-Cheat project
 - [Novice-Movie-Study](https://github.com/Stryyder/novice-movie-study) is a low priority JSON log of movies I've watched over the years with some basic associated data and gut reaction ratings
 
 
