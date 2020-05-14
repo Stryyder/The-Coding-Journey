@@ -1,4 +1,5 @@
 <img src="img/preview.png"> 
+[Check this out](https://github.com/kamranahmedse/developer-roadmap) for an awesome, exhaustive list of developer learning paths.
 
 ### Projects I'm working on
 
@@ -38,7 +39,8 @@ for updates and progress
 **Basic**
 - [Danger House](https://github.com/Stryyder/Danger-House): I made this game with Basic utilizing at the time QBasic 4.5. It was made sometime around 2001? Text and pictures - they were all the rage back then. Some of the graphics for this game were created by: unknown author.
 
-- [Check this out](https://github.com/kamranahmedse/developer-roadmap) for an awesome, exhaustive list of what to learn.
+
+
 
 
 
