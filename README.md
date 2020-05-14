@@ -36,35 +36,9 @@ for updates and progress
 - [Jeaopardy Test Prepper](https://github.com/Stryyder/Jeopardy-Flash-Cards): This project was originally designed for a game night, but could also be used to study for a test, or teach a class. It utilizes Flash.
 
 **Basic**
-- [Danger House](https://github.com/Stryyder/Danger-House): I made this game with Basic utilizing at the time QBasic 4.5. It was made sometime around 2001? Text and pictures - they were all the rage back then.
+- [Danger House](https://github.com/Stryyder/Danger-House): I made this game with Basic utilizing at the time QBasic 4.5. It was made sometime around 2001? Text and pictures - they were all the rage back then. Some of the graphics for this game were created by: unknown author.
 
-### Biggest lessons so far
-- Equally important to studying is not studying everything.  Trying to learn everything is futile.
-- Algorithm and data structures are such a vital key component to learn that they should be placed up front
-- You may experience something deeper than burnout, fear of not being able to grasp the material. But you can. Each time you come across a term, it becomes more and more familiar as time passes.
-- Even if web dev dies in the future, programming won't
-- Before applying to jobs, have a solid portfolio and a job-specific, targeted resume
-- Learn at the speed required to fully comprehend the material
-- A creative side-project that isn't necessarily educationally focused can help keep you excited about coding
-- Just work locally first and then make more meaningful, content-rich commits to repositories! 
-
-### Biggest challenge so far
-- Javascript Algorithms
-- React oddities (going through this section twice in bootcamp was extremely beneficial)
-- Redux state management is odd
-
-
-#### Basic Front-End Developer Path
-- Build a Portfolio Site
-- Work on projects, even for free (like open source stuff even)
-- Put Your Code on a portal like GitHub
-- Go to community coding events
-- Network with other developers
-- Follow industry news and stay on top of the newest skills
-- Refine your resume
-- Start looking for a job
-- Interview, interview, interview
-- [Check this out](https://github.com/kamranahmedse/developer-roadmap) for a much better, exhaustive list of what to learn.
+- [Check this out](https://github.com/kamranahmedse/developer-roadmap) for an awesome, exhaustive list of what to learn.
 
 
 
