@@ -31,6 +31,7 @@ for updates and progress
 
 **HTML/CSS/JS**
 - [Mega-Cheat](https://github.com/Stryyder/Mega-Cheat): Mega-Cheat is a cheat sheet for basic fron-end development. It needs some love. (Open for first-timer PRs, but will not be actively maintained)
+
 **Flash/Actionscript**
 - [Jeaopardy Test Prepper](https://github.com/Stryyder/Jeopardy-Flash-Cards): This project was originally designed for a game night, but could also be used to study for a test, or teach a class. It utilizes Flash.
 
