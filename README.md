@@ -1,5 +1,6 @@
 <img src="img/preview.png"> 
-[Check this out](https://github.com/kamranahmedse/developer-roadmap) for an awesome, exhaustive list of developer learning paths.
+
+- [Check this out](https://github.com/kamranahmedse/developer-roadmap) for an awesome, exhaustive list of developer learning paths.
 
 ### Projects I'm working on
 
