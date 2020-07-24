@@ -2,6 +2,9 @@
 
 - [Check this out](https://github.com/kamranahmedse/developer-roadmap) for an awesome, exhaustive list of developer learning paths.
 
+### Interesting Repo Inbox
+* [View my starred repos](https://github.com/Stryyder?tab=stars) to see the projects I'm watching
+
 ### Projects I'm working on
 
 * [View the Wiki page](https://github.com/Stryyder/The-Front-End-Coding-Journey/wiki)
