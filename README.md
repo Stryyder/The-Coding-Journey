@@ -40,12 +40,4 @@ for updates and progress
 - [Jeaopardy Test Prepper](https://github.com/Stryyder/Jeopardy-Flash-Cards): This project was originally designed for a game night, but could also be used to study for a test, or teach a class. It utilizes Flash.
 
 **Basic**
-- [Danger House](https://github.com/Stryyder/Danger-House): I made this game with Basic utilizing at the time QBasic 4.5. It was made sometime around 2001? Text and pictures - they were all the rage back then. Some of the graphics for this game were created by: unknown author.
-
-
-
-
-
-
-
-
+- [Danger House](https://github.com/Stryyder/Danger-House): I made this game with Basic utilizing QBasic 4.5 and prior versions. Text and pictures - they were all the rage back then. Some of the graphics for this game were created by: unknown artist.
